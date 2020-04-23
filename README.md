@@ -4,7 +4,9 @@ Implementation of command prompt functionality using Java
 Currently Supports 2 Commands
 
 Enter the directory or filepath
+
 if it's a directory it will list all the files in that directory
+
 if it's a file it will display it's properties such as size,path and last modified date
 
 
@@ -12,7 +14,6 @@ ex.
 
 cmd:>G:\1.jpg
 
-1472827450000
 Size in bytes       69054     
 Path                G:\                 
 Last Modified       Fri Sep 02 20:14:10 IST 2016 
